@@ -40,8 +40,3 @@ The heart of MovieScope is a sophisticated weighted scoring algorithm that goes 
 - **Testing:** JUnit 5
 - **Data Format:** CSV
 - **IDE:** IntelliJ IDEA / VS Code
-
-##  Getting Started
-1. **Clone the repo:**
-   ```bash
-   git clone https://github.com/LingchenE1/MovieScope.git
